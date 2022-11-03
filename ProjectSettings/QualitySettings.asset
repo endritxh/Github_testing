@@ -227,6 +227,10 @@ QualitySettings:
     Lumin: 5
     Nintendo Switch: 5
     PS4: 5
+
+    PSP2: 2
+    Server: 0
+    Stadia: 5
     Standalone: 5
     WebGL: 3
     Windows Store Apps: 5
