@@ -6,6 +6,8 @@ TagManager:
   tags:
   - End
   - Box
+  - New tag
+  - Obstacle
   layers:
   - Default
   - TransparentFX
