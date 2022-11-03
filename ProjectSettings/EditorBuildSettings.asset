@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Models/AltinDemaj's Models/Infima Games/Low Poly Shooter Pack -
+      Free Sample/Scenes/AltinDemaj.unity
+    guid: 63fdc04a097eb0b4ba4af78a98dac40d
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: bef101056de5f734d91aeff9b53dcd52,
+      type: 2}
